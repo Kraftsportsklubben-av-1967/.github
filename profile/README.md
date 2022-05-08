@@ -4,4 +4,4 @@ This is a github organization for various platforms developed by devs at KK-67.
 
 Mainly it is being maintained by **Marius Arhaug** but it is made to be able to allow new members with ideas to learn and contribute
 
-The main repo is the repo for the club's website https://kk-67.com
+The main purpose for this organization is to develop the frontend and backend for the club's website https://kk-67.com
